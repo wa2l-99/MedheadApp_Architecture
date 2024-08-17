@@ -32,5 +32,5 @@ Ces documents et diagrammes sont essentiels pour :
 
 ---
 
-**Note :** Ce repository est un complément au repository principal contenant le code source du PoC. Il est conseillé de le consulter conjointement pour une compréhension complète du projet.
+**Note :** Ce repository est un complément au [repository principal contenant le code source du PoC](https://github.com/wa2l-99/MedheadApp_PoC/tree/main). Il est conseillé de le consulter conjointement pour une compréhension complète du projet.
 
